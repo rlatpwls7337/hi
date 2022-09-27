@@ -58,13 +58,21 @@ text
 
 
 
-# url 삽입
-
+# url 삽입(링크 생성)
+## 방법1)
+http://google.com
+<br>
+## 방법2)
 <http://google.com>
 
+## 방법3)
+Link: [Google][google link]
 
+[google link]:http://google.com
 
-
+## 방법4(외부 링크 가져오기)
+* 링크 : http://example.com/
+* 이메일링크 : <address@example.com>
 
 
 
