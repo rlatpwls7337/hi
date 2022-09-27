@@ -54,7 +54,7 @@ text
 4. __볼드 사이에 *기울어진 이텔릭체*__
 
 # 이미지 넣기
-![alt text]('C:\Users\LG\dataset')
+![alt text](![1](https://user-images.githubusercontent.com/114466218/192464513-b489d868-199b-4635-928f-7ccfb97da252.png)
 
 
 
