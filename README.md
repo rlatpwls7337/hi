@@ -25,7 +25,11 @@ text
 >>Welcome
 >>> My repository
 
+# 숫자대로, 숫자 목록대로 출력할 때
 
+1. 수박
+2. 멜론
+3. 참외
 
 
 
